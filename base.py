@@ -1,5 +1,34 @@
 
+#-----------  运算
+# print(10 and 20)
+# print(-1 and 20)
+# print(0 and 20)
 
+# print(10 or 20)
+# print(-1 or 20)
+# print(0 or 20)
+
+# print(not True)
+# print(not  False)
+# tuple = ('runoob', 786, 2.23, 'john', 70.2)
+# print("xxx" in tuple)
+# print("2.23" in tuple)
+# print(2.23 in tuple)
+# is 判断内存空间 == 判断值相同
+# a = 1111
+# b = 1112
+# print(a is b)
+# print(a is not b)
+
+#------------ 转化
+# print(int("123"))
+# print(str(123))
+# str_dict={"name":"value","name1":"value1"}
+# str_dict["name"]=777
+# print(str_dict)
+# print(str_dict["name"])
+# print(str_dict.keys())
+# print(str_dict.values())
 #---------------- 元组 只读列表
 # tuple = ('runoob', 786, 2.23, 'john', 70.2)
 # print(tuple[0:2])
